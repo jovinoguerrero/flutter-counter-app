@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    theme: ThemeData(primarySwatch: Colors.purple), home: HomePage()));
+    theme: ThemeData(primarySwatch: Colors.blueGrey), home: HomePage()));
 }
 
 class HomePage extends StatefulWidget {
